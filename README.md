@@ -1,3 +1,6 @@
+A test automation project for hepsiburada.com (e-commerce website)
+2 test cases are written using POM
+
 Prerequisities :
 
 1. Java Development Kit (JDK) 11 or higher version
